@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				10
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Freddy New Left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-30
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Freddy New Down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				50
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Freddy New Up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				27
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Freddy New Right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Freddy New idle dance"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Freddy New",
+	"position": [
+		-100,
+		180
+	],
+	"healthicon": "freddy",
+	"flip_x": false,
+	"healthbar_colors": [
+		116,
+		56,
+		19
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.2,
+	"scale": 1.2
+}

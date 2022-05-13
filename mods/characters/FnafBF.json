@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "fnafBF Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				131,
+				-60
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "fnafBF Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-30
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "fnafBF Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				50
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "fnafBF Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				27
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "fnafBF Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/fnafBoyfriend",
+	"position": [
+		190,
+		50
+	],
+	"healthicon": "fnafBoyFriend",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		430,
+		-120
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

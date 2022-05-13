@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Chica.png"><SubTexture name="Chica idle dance0000" x="0" y="0" width="335" height="573" frameX="-30" frameY="-19" frameWidth="408" frameHeight="611" />
+<SubTexture name="Chica idle dance0001" x="335" y="0" width="335" height="573" frameX="-30" frameY="-19" frameWidth="408" frameHeight="611" />
+<SubTexture name="Chica idle dance0002" x="670" y="0" width="333" height="573" frameX="-30" frameY="-19" frameWidth="408" frameHeight="611" />
+<SubTexture name="Chica Down0000" x="1003" y="0" width="267" height="573" frameX="-31" frameY="-19" frameWidth="408" frameHeight="611" />
+<SubTexture name="Chica Right0000" x="670" y="573" width="335" height="565" frameX="-30" frameY="-19" frameWidth="408" frameHeight="611" />
+<SubTexture name="Chica Left0000" x="0" y="573" width="335" height="573" frameX="-30" frameY="-19" frameWidth="408" frameHeight="611" />
+<SubTexture name="Chica Up0000" x="335" y="573" width="335" height="573" frameX="-30" frameY="-19" frameWidth="408" frameHeight="611" />
+</TextureAtlas>

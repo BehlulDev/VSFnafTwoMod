@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="power.png">
+<SubTexture name="power up0000" x="0" y="0" width="549" height="272" frameX="0" frameY="0" frameWidth="549" frameHeight="272" />
+<SubTexture name="power up0001" x="549" y="0" width="822" height="404" frameX="0" frameY="0" frameWidth="822" frameHeight="404" />
+<SubTexture name="power up0002" x="1371" y="0" width="822" height="404" frameX="0" frameY="0" frameWidth="822" frameHeight="404" />
+<SubTexture name="power up0003" x="0" y="404" width="1100" height="540" frameX="0" frameY="0" frameWidth="1100" frameHeight="540" />
+<SubTexture name="power up0004" x="1100" y="404" width="1100" height="540" frameX="0" frameY="0" frameWidth="1100" frameHeight="540" />
+<SubTexture name="power up0005" x="2200" y="404" width="1187" height="559" frameX="0" frameY="0" frameWidth="1187" frameHeight="559" />
+<SubTexture name="power up0006" x="0" y="963" width="1187" height="559" frameX="0" frameY="0" frameWidth="1187" frameHeight="559" />
+<SubTexture name="power up0007" x="1187" y="963" width="1222" height="574" frameX="0" frameY="0" frameWidth="1222" frameHeight="574" />
+<SubTexture name="power up0008" x="2409" y="963" width="1222" height="574" frameX="0" frameY="0" frameWidth="1222" frameHeight="574" />
+</TextureAtlas>

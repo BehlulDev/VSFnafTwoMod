@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Foxy.png"><SubTexture name="Foxy idle dance0000" x="0" y="0" width="351" height="525" frameX="-45" frameY="-20" frameWidth="441" frameHeight="565" />
+<SubTexture name="Foxy idle dance0001" x="351" y="0" width="363" height="525" frameX="-33" frameY="-20" frameWidth="441" frameHeight="565" />
+<SubTexture name="Foxy idle dance0002" x="714" y="0" width="365" height="525" frameX="-31" frameY="-20" frameWidth="441" frameHeight="565" />
+<SubTexture name="Foxy idle dance0003" x="0" y="525" width="371" height="525" frameX="-25" frameY="-20" frameWidth="441" frameHeight="565" />
+<SubTexture name="Foxy Left0000" x="371" y="525" width="389" height="525" frameX="-7" frameY="-20" frameWidth="441" frameHeight="565" />
+<SubTexture name="Foxy Right0000" x="1079" y="0" width="385" height="525" frameX="-45" frameY="-20" frameWidth="441" frameHeight="565" />
+<SubTexture name="Foxy Up0000" x="1079" y="525" width="351" height="525" frameX="-45" frameY="-20" frameWidth="441" frameHeight="565" />
+<SubTexture name="Foxy Down0000" x="1464" y="0" width="349" height="525" frameX="-47" frameY="-20" frameWidth="441" frameHeight="565" />
+<SubTexture name="Foxy Hey0000" x="760" y="740" width="210" height="104" frameX="0" frameY="0" frameWidth="210" frameHeight="104" />
+<SubTexture name="Foxy Hey0001" x="1464" y="902" width="230" height="111" frameX="0" frameY="0" frameWidth="230" frameHeight="111" />
+<SubTexture name="Foxy Hey0002" x="760" y="525" width="251" height="108" frameX="0" frameY="0" frameWidth="251" frameHeight="108" />
+<SubTexture name="Foxy Hey0003" x="760" y="633" width="271" height="107" frameX="0" frameY="0" frameWidth="271" frameHeight="107" />
+<SubTexture name="Foxy Hey0004" x="1464" y="723" width="296" height="179" frameX="0" frameY="0" frameWidth="296" frameHeight="179" />
+<SubTexture name="Foxy Hey0005" x="1464" y="525" width="322" height="198" frameX="0" frameY="0" frameWidth="322" frameHeight="198" />
+<SubTexture name="Foxy Hey0006" x="1440" y="1050" width="359" height="212" frameX="0" frameY="0" frameWidth="359" frameHeight="212" />
+<SubTexture name="Foxy Hey0007" x="919" y="1410" width="408" height="220" frameX="0" frameY="0" frameWidth="408" frameHeight="220" />
+<SubTexture name="Foxy Hey0008" x="480" y="1410" width="439" height="235" frameX="0" frameY="0" frameWidth="439" frameHeight="235" />
+<SubTexture name="Foxy Hey0009" x="0" y="1410" width="480" height="268" frameX="0" frameY="0" frameWidth="480" frameHeight="268" />
+<SubTexture name="Foxy Hey0010" x="960" y="1050" width="480" height="314" frameX="0" frameY="0" frameWidth="480" frameHeight="314" />
+<SubTexture name="Foxy Hey0011" x="0" y="1050" width="480" height="360" frameX="0" frameY="0" frameWidth="480" frameHeight="360" />
+<SubTexture name="Foxy Hey0012" x="480" y="1050" width="480" height="360" frameX="0" frameY="0" frameWidth="480" frameHeight="360" />
+</TextureAtlas>

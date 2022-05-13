@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Mangle.png"><SubTexture name="Mangle idle dance0000" x="5098" y="0" width="2549" height="3462" frameX="-30" frameY="-27" frameWidth="2600" frameHeight="3500" />
+<SubTexture name="Mangle idle dance0001" x="0" y="0" width="2549" height="3477" frameX="-30" frameY="-12" frameWidth="2600" frameHeight="3500" />
+<SubTexture name="Mangle idle dance0002" x="2549" y="0" width="2549" height="3469" frameX="-30" frameY="-20" frameWidth="2600" frameHeight="3500" />
+<SubTexture name="Mangle Down0000" x="0" y="3477" width="2549" height="3462" frameX="-30" frameY="-27" frameWidth="2600" frameHeight="3500" />
+<SubTexture name="Mangle Up0000" x="5098" y="3477" width="2455" height="3447" frameX="-30" frameY="-42" frameWidth="2600" frameHeight="3500" />
+<SubTexture name="Mangle Right0000" x="2549" y="3477" width="2549" height="3462" frameX="-30" frameY="-27" frameWidth="3608" frameHeight="3500" />
+<SubTexture name="Mangle Left0000" x="7647" y="0" width="2686" height="3410" frameX="-30" frameY="-27" frameWidth="3745" frameHeight="3500" />
+</TextureAtlas>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Golden Freddy.png"><SubTexture name="Golden Freddy idle dance0000" x="0" y="0" width="211" height="192" frameX="-23" frameY="-8" frameWidth="260" frameHeight="220" />
+<SubTexture name="Golden Freddy idle dance0001" x="211" y="0" width="211" height="192" frameX="-23" frameY="-8" frameWidth="260" frameHeight="220" />
+<SubTexture name="Golden Freddy idle dance0002" x="0" y="192" width="207" height="192" frameX="-27" frameY="-8" frameWidth="260" frameHeight="220" />
+<SubTexture name="Golden Freddy Down0000" x="422" y="0" width="229" height="192" frameX="-5" frameY="-8" frameWidth="260" frameHeight="220" />
+<SubTexture name="Golden Freddy Up0000" x="422" y="192" width="211" height="192" frameX="-23" frameY="-8" frameWidth="260" frameHeight="220" />
+<SubTexture name="Golden Freddy Right0000" x="0" y="384" width="211" height="192" frameX="-23" frameY="-8" frameWidth="260" frameHeight="220" />
+<SubTexture name="Golden Freddy Left0000" x="207" y="192" width="209" height="192" frameX="-23" frameY="-8" frameWidth="260" frameHeight="220" />
+</TextureAtlas>

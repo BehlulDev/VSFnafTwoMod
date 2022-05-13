@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Puppet.png"><SubTexture name="Puppet idle dance0000" x="0" y="0" width="293" height="803" frameX="-5" frameY="-9" frameWidth="304" frameHeight="820" />
+<SubTexture name="Puppet idle dance0001" x="0" y="803" width="293" height="791" frameX="-5" frameY="-9" frameWidth="304" frameHeight="820" />
+<SubTexture name="Puppet idle dance0002" x="1369" y="0" width="293" height="794" frameX="-5" frameY="-9" frameWidth="304" frameHeight="820" />
+<SubTexture name="Puppet Down0000" x="686" y="803" width="396" height="683" frameX="-16" frameY="-9" frameWidth="418" frameHeight="820" />
+<SubTexture name="Puppet Up0000" x="293" y="803" width="393" height="732" frameX="-17" frameY="-9" frameWidth="416" frameHeight="820" />
+<SubTexture name="Puppet Right0000" x="293" y="0" width="441" height="803" frameX="-5" frameY="-9" frameWidth="459" frameHeight="820" />
+<SubTexture name="Puppet Left0000" x="734" y="0" width="635" height="803" frameX="-16" frameY="-9" frameWidth="697" frameHeight="820" />
+<SubTexture name="Puppet Hey0000" x="1082" y="803" width="325" height="395" frameX="-127" frameY="-38" frameWidth="577" frameHeight="433" />
+</TextureAtlas>

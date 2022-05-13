@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ToyBonnie.png"><SubTexture name="ToyBonnie idle dance0000" x="0" y="0" width="1638" height="3988" frameX="-627" frameY="-53" frameWidth="3096" frameHeight="4096" />
+<SubTexture name="ToyBonnie idle dance0001" x="1638" y="0" width="1851" height="3988" frameX="-539" frameY="-53" frameWidth="3096" frameHeight="4096" />
+<SubTexture name="ToyBonnie idle dance0002" x="3489" y="0" width="1950" height="3988" frameX="-455" frameY="-53" frameWidth="3096" frameHeight="4096" />
+<SubTexture name="ToyBonnie Down0000" x="0" y="3988" width="1638" height="3897" frameX="-627" frameY="-144" frameWidth="3096" frameHeight="4096" />
+<SubTexture name="ToyBonnie Up0000" x="1638" y="3988" width="1950" height="3801" frameX="-455" frameY="-240" frameWidth="3096" frameHeight="4096" />
+<SubTexture name="ToyBonnie Left0000" x="5439" y="0" width="1690" height="3988" frameX="-575" frameY="-53" frameWidth="3096" frameHeight="4096" />
+<SubTexture name="ToyBonnie Right0000" x="7129" y="0" width="1638" height="3968" frameX="-627" frameY="-53" frameWidth="3096" frameHeight="4096" />
+</TextureAtlas>

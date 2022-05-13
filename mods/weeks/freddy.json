@@ -1,0 +1,41 @@
+{
+	"songs": [
+		[
+			"freddy",
+			"freddy",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"chica - Soon",
+			"chica",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "f",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Freddy",
+	"weekName": "Freddy",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

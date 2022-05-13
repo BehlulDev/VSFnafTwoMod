@@ -1,0 +1,174 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-9,
+				4
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "ToyGoldenFreddy Left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-30
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "ToyGoldenFreddy Down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-6,
+				50
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "ToyGoldenFreddy Up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				27
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "ToyGoldenFreddy Right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-1
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "ToyGoldenFreddy idle dance",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			],
+			"name": "Dad idle dance"
+		},
+		{
+			"offsets": [
+				-9,
+				10
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "Dad Sing Note LEFT"
+		},
+		{
+			"offsets": [
+				0,
+				27
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			],
+			"name": "Dad Sing Note RIGHT"
+		},
+		{
+			"offsets": [
+				-6,
+				50
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			],
+			"name": "Dad Sing Note UP"
+		},
+		{
+			"offsets": [
+				-6,
+				50
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			],
+			"name": "ToyGoldenFreddy Hey"
+		},
+		{
+			"offsets": [
+				-6,
+				50
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "stance",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			],
+			"name": "ToyGoldenFreddy Stance"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ToyGoldenFreddy",
+	"position": [
+		0,
+		110
+	],
+	"healthicon": "toygoldenfreddy",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		35
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
